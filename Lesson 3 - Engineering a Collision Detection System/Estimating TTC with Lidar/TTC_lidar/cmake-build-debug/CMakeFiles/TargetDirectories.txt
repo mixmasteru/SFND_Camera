@@ -1,3 +1,0 @@
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 3 - Engineering a Collision Detection System/Estimating TTC with Lidar/TTC_lidar/cmake-build-debug/CMakeFiles/compute_ttc_lidar.dir

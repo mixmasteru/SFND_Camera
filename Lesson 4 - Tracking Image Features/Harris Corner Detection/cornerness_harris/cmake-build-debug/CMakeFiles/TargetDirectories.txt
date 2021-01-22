@@ -1,3 +1,0 @@
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/cmake-build-debug/CMakeFiles/cornerness_harris.dir

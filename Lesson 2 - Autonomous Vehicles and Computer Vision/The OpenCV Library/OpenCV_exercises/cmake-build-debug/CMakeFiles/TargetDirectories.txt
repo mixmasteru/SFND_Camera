@@ -1,7 +1,0 @@
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/load_image_3.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/create_matrix.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/change_pixels.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/load_image_2.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug/CMakeFiles/load_image_1.dir
