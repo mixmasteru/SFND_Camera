@@ -1,0 +1,5 @@
+/home/mixmasteru/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/203.6682.181/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises"
+-- Found OpenCV: /usr (found suitable version "4.2.0", minimum required is "4.1") 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 2 - Autonomous Vehicles and Computer Vision/The OpenCV Library/OpenCV_exercises/cmake-build-debug
