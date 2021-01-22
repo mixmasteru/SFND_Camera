@@ -1,5 +1,0 @@
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug/CMakeFiles/gaussian_smoothing.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug/CMakeFiles/gradient_sobel.dir
-/home/mixmasteru/development/udacity/SFND/SFND_Camera/Lesson 4 - Tracking Image Features/Intensity Gradient and Filtering/gradient_filtering/cmake-build-debug/CMakeFiles/magnitude_sobel.dir
